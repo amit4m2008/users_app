@@ -1,0 +1,9 @@
+/*
+ *= require_tree .
+ *= require_self
+ */
+@import "bootstrap/dist/css/bootstrap";
+
+.dataTables_filter label {
+  float: right;
+}
